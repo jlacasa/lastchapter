@@ -1,0 +1,56 @@
+---
+title: "Dissertation - next steps"
+author: "J Lacasa"
+date: "2023-07-20"
+output: beamer_presentation
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## What do you think about these points:   
+
+- Title: "Statistical Inference and Applications of the CNDC"  
+
+- Chapters:   
+  I. 
+  Introduction  
+  *N management is important ...*  
+  I. 
+  Comparison of statistical methods to fit critical nitrogen dilution curves  
+  II. 
+  Enhancing inference from critical Nitrogen curves  
+  III. 
+  Phenotyping for effective use of nitrogen in wheat crop: a comparison between NUE versus NNI metrics  
+  IV. 
+  **???**  
+  IV. 
+  Final remarks  
+  
+  
+## Chapter V  
+
+**Now for Martin**  
+
+- "On the precision and accuracy of remote sensing technologies for predicting NNI"
+- Computers and Electronics in Agriculture  
+- **Main goal:** evaluate the robustness of the relationship between NNI and its proxies (VI, SPAD).  
+- **Specific goals**:   
+  (i) 
+  evaluate the consistency of the mathematical model,  
+  (ii) 
+  decompose mean squared error to assess the propensity for bias and loss of precision of different methods    
+  (iii) 
+  provide recommendations for effective resource allocation.  
+
+
+## Alternatives to Chapter V    
+
+- "Avenues for research in applications of the critical N"  
+- Optimal light extinction coefficient   
+  - ideally brief, higher impact journal  
+  - which crops?   
+- N dilution experiment  
+- Also thoughts on GPD  
+- Course/workshop  
